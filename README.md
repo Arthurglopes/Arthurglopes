@@ -21,8 +21,8 @@
 
 ## ⭐ Information about my GitHub account
 <div> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurglopes&theme=highcontrast&layout=compact&langs_count=16">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthurglopes&theme=highcontrast&show_icons=true">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurglopes&theme=highcontrast&layout=compact&langs_count=16">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Arthurglopes&theme=highcontrast&show_icons=true">
    
 </div>
 
